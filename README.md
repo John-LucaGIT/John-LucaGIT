@@ -4,6 +4,9 @@
 - 📫 How to reach me:
 ### [LinkedIn](https://www.linkedin.com/in/john-luca-kutschera/)
 ### [My Porfolio](http://jkutschera.com)
+- Some work:
+#### [Gaming Projects](https://github.com/John-LucaGIT/Gaming)
+#### [University Projects](https://github.com/John-LucaGIT/Uni)
 
 
 <!---
