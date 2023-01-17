@@ -8,6 +8,7 @@
 #### Some work:
 - [Gaming Projects](https://github.com/John-LucaGIT/Gaming)
 - [University Projects](https://github.com/John-LucaGIT/Uni)
+- [NewzComp](https://github.com/John-LucaGIT/newzcomp)
 
 
 <!---
