@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @John-LucaGIT
 - 👀 I’m interested in data science, data visualization, AI & ML, python, and advanced web apps.
-- 🌱 I’m currently learning AI, Haskell, Theory of Computation, Cyber Security
+- 🌱 I’m currently expanding my knowledge in AI, Cyber Security and Cloud Computing.
 
 📫 How to reach me:
 ##### [LinkedIn](https://www.linkedin.com/in/john-luca-kutschera/)
