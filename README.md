@@ -54,8 +54,8 @@
 #### Some work:
 - [Gaming Projects](https://github.com/John-LucaGIT/Gaming)
 - [University Projects](https://github.com/John-LucaGIT/Uni)
-- [NewzComp](https://github.com/John-LucaGIT/newzcomp)
-- [Apps](https://github.com/John-LucaGIT/apps)
+- [NewzComp](https://github.com/John-LucaGIT/newzcomp) - [Production Page](https://NewzComp.com)
+- [BY20XX](https://github.com/John-LucaGIT/BY20XX) - [Production Page](https://BY20XX.com)
 
 
 <!---
