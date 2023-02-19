@@ -1,6 +1,3 @@
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
 <p align="center">
     <picture>
         <img alt="Shows an illustrated sloth" width="30%" src="https://avatars.githubusercontent.com/u/71774595?s=400&u=16ccbd9a42e44f2619d0995d071cdb9f3ec95dcb&v=4">
@@ -8,7 +5,6 @@
     <h1 align="center">
         Hey there, I'm John-Luca!
         <img src="https://media3.giphy.com/media/pHgwMjRGz2ryRr5Iqx/giphy.gif"  style="transform: translate(0px,15px)" width="40px"/>
-        <!-- <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/pHgwMjRGz2ryRr5Iqx" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/RMITStudentLife-wave-sloth-rmit-pHgwMjRGz2ryRr5Iqx">via GIPHY</a></p> -->
     </h1>
 </p>
 
@@ -21,30 +17,32 @@
 <h3>My Stack</h3>
 <div>
     <img title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="55px"/>
-    <i title="C++" class="devicon-cplusplus-line colored" style="font-size:55px"></i>
-    <i title="PHP" class="devicon-php-plain colored" style="font-size:55px"></i>
+    <img title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55px"/>
+    <img title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55px"/>
     <img title="Haskell" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="55px"/>
-    <i title="JavaScript" class="devicon-javascript-plain colored" style="font-size:55px"></i>
-    <i title="Node.js" class="devicon-nodejs-plain colored" style="font-size:55px"></i>
+    <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="55px"/>
+    <img title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55px"/>
     <img title="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="55px"/>
-    <i title="HTML5" class="devicon-html5-plain colored" style="font-size:55px"></i>
-    <i title="CSS 3" class="devicon-css3-plain colored" style="font-size:55px"></i>
-    <i title="Lua" class="devicon-lua-plain-wordmark colored" style="font-size:55px"></i>
+    <img title="HTML 5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55px"/>
+    <img title="CSS 3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55px"/>
+    <img title="Lua" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" width="55px"/>
     <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55px"/>
 </div>
 
 
 <h3>Toolkit</h3>
 <div>
-    <i title="Git" class="devicon-git-plain colored" style="font-size:55px"></i>
-    <img  title="MatLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="55px"/>
-    <i title="Adobe Illustrator" class="devicon-illustrator-plain colored" style="font-size:55px"></i>
+    <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55px"/>
+    <img title="MatLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="55px"/>
+    <img title="Adobe Illustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" width="55px"/>
     <img title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55px"/>
-    <i title="MySQL" class="devicon-mysql-plain colored" style="font-size:55px"></i>
-    <i title="Nginx" class="devicon-nginx-original colored" style="font-size:55px"></i>
-    <i title="Pandas" class="devicon-pandas-original-wordmark colored" style="font-size:55px"></i>
-    <i title="TensorFlow" class="devicon-tensorflow-original colored" style="font-size:55px"></i>
-    <img title="Google Cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55px" />
+    <img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55px"/>
+    <img title="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="55px"/>
+    <img title="Nginx" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="55px"/>
+    <img title="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="55px"/>
+    <img title="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55px"/>
+    <img title="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="55px"/>
+    <img title="Google Cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55px"/>
 </div>
 
 ### 📫 How to reach me:
