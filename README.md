@@ -48,7 +48,7 @@
 
 <h3>My Certifications 🎓 :</h3>
 <a href="https://www.credly.com/badges/5aabfc2c-808e-4003-b382-fbda7d81ea6b/public_url" target="_blank"><img title="Google Data Analytics Certificate" src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width="125px" style="margin-right: 5px;"/></a>
-<a class="badge-image" title="Badge for Google Cloud Fundamentals: Core Infrastructure" href="https://www.cloudskillsboost.google/public_profiles/6b477f54-bb5c-4a45-bbce-438843f213c8/badges/3194235"><img alt="Badge for Google Cloud Fundamentals: Core Infrastructure" src="https://cdn.qwiklabs.com/k%2BoMQgKasDOzAefPb2KMdPw5fN5oeQ%2FdV%2B5qL73MPGc%3D" width="155px" style="margin-right: 5px; transform: translate(0px,10px)"></a>
+<a class="badge-image" title="Badge for Google Cloud Fundamentals: Core Infrastructure" href="https://www.cloudskillsboost.google/public_profiles/6b477f54-bb5c-4a45-bbce-438843f213c8/badges/3194235"><img alt="Badge for Google Cloud Fundamentals: Core Infrastructure" src="https://cdn.qwiklabs.com/k%2BoMQgKasDOzAefPb2KMdPw5fN5oeQ%2FdV%2B5qL73MPGc%3D" width="155px" style="margin-right: 5px; transform: translate(0px,13px)"></a>
 
 
 ### 📫 How to reach me:
