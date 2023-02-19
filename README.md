@@ -19,31 +19,33 @@
 - ⚽ My Goal is to combine my passion for tech with my interest in business development.
 
 <h3>My Stack</h3>
-<img title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="55px"/>
-<i title="C++" class="devicon-cplusplus-line colored" style="font-size:55px"></i>
-<i title="PHP" class="devicon-php-plain colored" style="font-size:55px"></i>
-<img title="Haskell" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="55px"/>
-<i title="JavaScript" class="devicon-javascript-plain colored" style="font-size:55px"></i>
-<i title="Node.js" class="devicon-nodejs-plain colored" style="font-size:55px"></i>
-<img title="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="55px"/>
-<i title="HTML5" class="devicon-html5-plain colored" style="font-size:55px"></i>
-<i title="CSS 3" class="devicon-css3-plain colored" style="font-size:55px"></i>
-<i title="Lua" class="devicon-lua-plain-wordmark colored" style="font-size:55px"></i>
-<img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55px"/>
-
+<div>
+    <img title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="55px"/>
+    <i title="C++" class="devicon-cplusplus-line colored" style="font-size:55px"></i>
+    <i title="PHP" class="devicon-php-plain colored" style="font-size:55px"></i>
+    <img title="Haskell" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="55px"/>
+    <i title="JavaScript" class="devicon-javascript-plain colored" style="font-size:55px"></i>
+    <i title="Node.js" class="devicon-nodejs-plain colored" style="font-size:55px"></i>
+    <img title="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="55px"/>
+    <i title="HTML5" class="devicon-html5-plain colored" style="font-size:55px"></i>
+    <i title="CSS 3" class="devicon-css3-plain colored" style="font-size:55px"></i>
+    <i title="Lua" class="devicon-lua-plain-wordmark colored" style="font-size:55px"></i>
+    <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55px"/>
+</div>
 
 
 <h3>Toolkit</h3>
-<i title="Git" class="devicon-git-plain colored" style="font-size:55px"></i>
-<img  title="MatLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="55px"/>
-<i title="Adobe Illustrator" class="devicon-illustrator-plain colored" style="font-size:55px"></i>
-<img title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55px"/>
-<i title="MySQL" class="devicon-mysql-plain colored" style="font-size:55px"></i>
-<i title="Nginx" class="devicon-nginx-original colored" style="font-size:55px"></i>
-<i title="Pandas" class="devicon-pandas-original-wordmark colored" style="font-size:55px"></i>
-<i title="TensorFlow" class="devicon-tensorflow-original colored" style="font-size:55px"></i>
-<img title="Google Cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55px" />
-
+<div>
+    <i title="Git" class="devicon-git-plain colored" style="font-size:55px"></i>
+    <img  title="MatLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="55px"/>
+    <i title="Adobe Illustrator" class="devicon-illustrator-plain colored" style="font-size:55px"></i>
+    <img title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55px"/>
+    <i title="MySQL" class="devicon-mysql-plain colored" style="font-size:55px"></i>
+    <i title="Nginx" class="devicon-nginx-original colored" style="font-size:55px"></i>
+    <i title="Pandas" class="devicon-pandas-original-wordmark colored" style="font-size:55px"></i>
+    <i title="TensorFlow" class="devicon-tensorflow-original colored" style="font-size:55px"></i>
+    <img title="Google Cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55px" />
+</div>
 
 ### 📫 How to reach me:
 
