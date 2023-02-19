@@ -14,7 +14,8 @@
 - 📘 I’m currently expanding my knowledge in AI, Cyber Security and Cloud Computing.
 - ⚽ My Goal is to combine my passion for tech with my interest in business development.
 
-<h3>My Stack</h3>
+<h3>My Stack <img src="stack.png" width="20px" style="transform: translate(0px,3px); margin-right: 2px"/>:</h3>
+
 <div>
     <img title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="55px"/>
     <img title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55px"/>
@@ -30,7 +31,7 @@
 </div>
 
 
-<h3>Toolkit</h3>
+<h3>My Toolkit 🧰 :</h3>
 <div>
     <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55px"/>
     <img title="MatLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="55px"/>
