@@ -57,11 +57,10 @@
 - #### <img src="https://jkutschera.com/assets/images/lndlogo.png" style="transform: translate(0px,6px)" width="24px"/> [My Porfolio](http://jkutschera.com)
 
 #### Some work:
-- [Gaming Projects](https://github.com/John-LucaGIT/Gaming)
-- [University Projects](https://github.com/John-LucaGIT/Uni)
-- [NewzComp](https://github.com/John-LucaGIT/newzcomp) - [Production Page](https://NewzComp.com)
-- [BY20XX](https://github.com/John-LucaGIT/BY20XX) - [Production Page](https://BY20XX.com)
-
+- <img src="https://jkutschera.com/assets/images/coa.svg" style="transform: translate(0px,-10px)" width="18px"/>[Gaming Projects](https://github.com/John-LucaGIT/Gaming)
+- <img src="https://byteme.jkutschera.com/assets/images/btmlogo.png" style="transform: translate(0px,-10px)" width="18px"/>  [University Projects](https://github.com/John-LucaGIT/Uni)
+- <img src="https://newzcomp.com/assets/images/tricolorblack.svg" style="transform: translate(0px,-10px)" width="18px"/> [NewzComp](https://github.com/John-LucaGIT/newzcomp) - [Production Page](https://NewzComp.com)
+- <img src="https://by20xx.com/favicon.ico" style="transform: translate(0px,-10px)" width="18px"/> [BY20XX](https://github.com/John-LucaGIT/BY20XX) - [Production Page](https://BY20XX.com)
 
 <!---
 John-LucaGIT/John-LucaGIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
