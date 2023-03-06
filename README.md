@@ -1,6 +1,6 @@
 <p align="center">
     <picture>
-        <img alt="Shows an illustrated sloth" width="30%" src="https://avatars.githubusercontent.com/u/71774595?s=400&u=16ccbd9a42e44f2619d0995d071cdb9f3ec95dcb&v=4">
+        <img alt="Shows an illustrated sloth" width="30%" src="https://jkutschera.com/assets/images/cybpc.png">
     </picture>
     <h1 align="center">
         Hey there, I'm John-Luca!
