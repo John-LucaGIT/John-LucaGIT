@@ -1,3 +1,5 @@
+<!-- Images are licensed, unlicensed use is prohibited -->
+
 <p align="center">
     <picture>
         <img alt="Shows an illustrated sloth" width="30%" src="https://jkutschera.com/assets/images/cybpc.png">
