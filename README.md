@@ -46,6 +46,7 @@
     <img title="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55px"/>
     <img title="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="55px"/>
     <img title="Google Cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55px"/>
+    <img title="Docker" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/docker-icon.svg" width="55px"/>
 </div>
 
 <h3><img src="https://lynod.co.uk/assets/images/reading_cyb.png" style="transform: translate(0px,-10px), margin-top: 55px" width="34px"/> My Certifications:</h3>
