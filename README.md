@@ -12,10 +12,6 @@
 
 <h3>I'm a Full Stack Software Engineer</h3>
 
-- 🧐 I’m interested in data science, data visualization, AI & ML, python, and advanced web apps.
-- 📘 I’m currently expanding my knowledge in AI, Cyber Security and Cloud Computing.
-- ⚽ My Goal is to combine my passion for tech with my interest in business development.
-
 <h3><img src="https://lynod.co.uk/assets/images/builder_cyb.png" style="transform: translate(0px,-10px), margin-top: 55px" width="34px"/>  My Stack:</h3>
 
 <div>
