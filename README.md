@@ -10,41 +10,6 @@
     </h1>
 </p>
 
-<h3>I'm a Full Stack Software Engineer</h3>
-
-<h3><img src="https://lynod.co.uk/assets/images/builder_cyb.png" style="transform: translate(0px,-10px), margin-top: 55px" width="34px"/>  My Stack:</h3>
-
-<div>
-    <img title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="55px"/>
-    <img title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55px"/>
-    <img title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55px"/>
-    <img title="Haskell" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="55px"/>
-    <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="55px"/>
-    <img title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55px"/>
-    <img title="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="55px"/>
-    <img title="HTML 5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55px"/>
-    <img title="CSS 3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55px"/>
-    <img title="Lua" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" width="55px"/>
-    <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55px"/>
-</div>
-
-
-<h3><img src="https://lynod.co.uk/assets/images/jetpack_cyb.png" style="transform: translate(0px,-10px), margin-top: 55px" width="34px"/> My Toolkit:</h3>
-<div>
-    <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55px"/>
-    <img title="MatLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="55px"/>
-    <img title="Adobe Illustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" width="55px"/>
-    <img title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55px"/>
-    <img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55px"/>
-    <img title="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="55px"/>
-    <img title="Nginx" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="55px"/>
-    <img title="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="55px"/>
-    <img title="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55px"/>
-    <img title="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="55px"/>
-    <img title="Google Cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55px"/>
-    <img title="Docker" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/docker-icon.svg" width="55px"/>
-</div>
-
 <h3><img src="https://lynod.co.uk/assets/images/reading_cyb.png" style="transform: translate(0px,-10px), margin-top: 55px" width="34px"/> My Certifications:</h3>
 <a href="https://www.credly.com/badges/5aabfc2c-808e-4003-b382-fbda7d81ea6b/public_url" target="_blank"><img title="Google Data Analytics Certificate" src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width="125px" style="margin-right: 5px;"/></a>
 <a class="badge-image" title="Badge for Google Cloud Fundamentals: Core Infrastructure" href="https://www.cloudskillsboost.google/public_profiles/6b477f54-bb5c-4a45-bbce-438843f213c8/badges/3194235"><img alt="Badge for Google Cloud Fundamentals: Core Infrastructure" src="https://cdn.qwiklabs.com/k%2BoMQgKasDOzAefPb2KMdPw5fN5oeQ%2FdV%2B5qL73MPGc%3D" width="155px" style="margin-right: 5px; transform: translate(0px,15px)"></a>
